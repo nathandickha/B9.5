@@ -4,7 +4,7 @@ import { updateGroundVoid } from "../scene.js"; // kept for compatibility if use
 import { createPoolWater } from "./water.js";
 
 // --- SPA Constants ---
-const SPA_WALL_THICKNESS = 0.2;
+const SPA_WALL_THICKNESS = 0.5;
 
 // Snap logic:
 // - If SPA_TOP_OFFSET <= 0.05 → spa ON wall (no extra offset)
