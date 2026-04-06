@@ -30,7 +30,7 @@ const SPA_SEAT_DEPTH = 0.45;
 const SPA_SEAT_TOP_OFFSET = 0.5;
 const SPA_SEAT_THICKNESS = 2.18;
 let SPA_TOP_OFFSET = 0.0;
-const SPA_TOP_OFFSET_STEP = 0.05;
+const SPA_TOP_OFFSET_STEP = 0.20;
 
 function roundSpaTopOffset(value) {
   const n = Number.isFinite(value) ? value : 0;
