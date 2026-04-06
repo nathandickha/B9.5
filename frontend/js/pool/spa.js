@@ -24,7 +24,7 @@ const SHAPE_SNAP_NUDGE = {
 // Fine adjustment for the extra outer snap point where the spa wall closest
 // to the pool centre aligns to the pool wall. Positive values push that outer
 // snap slightly further away from the pool so the wall face does not stick in.
-const SPA_OUTER_WALL_ALIGN_OFFSET = 0.2;
+const SPA_OUTER_WALL_ALIGN_OFFSET = 0.1;
 
 const SPA_SEAT_DEPTH = 0.45;
 const SPA_SEAT_TOP_OFFSET = 0.5;
